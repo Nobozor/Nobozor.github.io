@@ -14,7 +14,8 @@
 	border-radius: 50%;
 }
 .profil h1 {
-	font-size: 44px;
+	font-size: 60px;
+	color: blueviolet;
 }
 .profile h2 {
 	font-size: 32px;
@@ -22,4 +23,5 @@
 	text-align: center;
 	margin-bottom: 30px;
 }
+
 
