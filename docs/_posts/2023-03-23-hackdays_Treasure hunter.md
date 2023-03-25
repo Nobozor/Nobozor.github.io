@@ -2,7 +2,8 @@
 layout: post
 title: Hackday_2023 - A Treasure Hunt
 date: 2023-03-21 21:15 +0100
-categories: Web
+categories: web
+difficulty: easy
 ---
 
 ### treasure hunter

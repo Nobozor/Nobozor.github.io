@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Write-up
+title: Writeups
 ---
-<link rel="stylesheet" type="text/css" href="src/css/style.css">
-<span>testooo</span>
+<link rel="stylesheet" href="{{ "/src/css/style.css" | relative_url }}">
+
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}" class="a">{{ post.title }}</a>
-      <span>{{post.date | date_to_string}}</span>
-      <span>{{post.categories}}</span>
+      <div class="article-blog">
+        <a href="{{ post.url }}" class="a">{{ post.title }}</a>
+        <span>{{post.date | date_to_string}}</span>
+        <span class="cat-web">{{post.categories}}</span>
+        <span class="easy">{{post.difficulty}}</span>
+      </div>
     </li>
   {% endfor %}
 </ul>

@@ -14,8 +14,7 @@
 	border-radius: 50%;
 }
 .profil h1 {
-	font-size: 60px;
-	color: blueviolet;
+	font-size: 44px;
 }
 .profile h2 {
 	font-size: 32px;
@@ -24,4 +23,40 @@
 	margin-bottom: 30px;
 }
 
+.article-blog{
+	padding: 4px;
+	margin-bottom: 5px;
+}
+.cat-web {
+	background-color: #8c80ff;
+	color:#0a0066 ;
+	border-radius: 20%;
+	padding: 3px;	
+	margin: 3px;
+}
+
+
+.easy {
+	background-color: #99ffc4;
+	color:#003316 ;
+	border-radius: 20%;
+	padding: 3px;
+	margin: 3px;
+}
+
+.medium {
+	background-color: #ffe980;
+	color:#4c3f00 ;
+	border-radius: 20%;
+	padding: 3px;
+	margin: 3px;
+}
+
+.hard {
+	background-color: #ff8880;
+	color: #660700;
+	border-radius: 20%;
+	padding: 3px;
+	margin: 3px;
+}
 

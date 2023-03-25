@@ -4,7 +4,7 @@
 
 layout: page
 ---
-<link rel="stylesheet" type="text/css" href="src/css/style.css">
+<link rel="stylesheet" type="text/css" href="/src/css/style.css">
 <script src="https://cdn.jsdelivr.net/npm/typelighterjs/typelighter.min.js"></script>	
 <div class="profil">
     <img src="src/img/profilpicture.jpg" class="profil-picture">

@@ -2,7 +2,8 @@
 layout: post
 title: Hackday_2023 - Let's Dig
 date: 2023-03-21 21:51 +0100
-categories: Web
+categories: web
+difficulty: easy
 ---
 
 ## Let's dig
